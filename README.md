@@ -70,7 +70,7 @@ Grafana is used to visualize system performance and logs.
 ### Access:
 
 ```
-http://<EC2-PUBLIC-IP>:3000
+http://54.159.0.158:3000
 ```
 
 ### Default Login:
