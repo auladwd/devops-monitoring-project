@@ -137,28 +137,6 @@ devops-monitoring-project/
 └── README.md
 ```
 
----
-
-## 📸 Screenshots
-
-### ✅ Terraform Deployment
-
-(Add screenshot here)
-
-### ✅ CI/CD Pipeline Execution
-
-(Add screenshot here)
-
-### ✅ Grafana Dashboard
-
-(Add screenshot here)
-
-### ✅ Loki Log Visualization
-
-(Add screenshot here)
-
----
-
 ## 🔐 Security Notes
 
 * Sensitive files like `.tfstate`, `.pem`, and `.env` are excluded using `.gitignore`
@@ -187,7 +165,7 @@ It reflects a complete DevOps workflow from infrastructure setup to monitoring a
 GitHub Repository Link:
 
 ```
-(Add your GitHub repository link here)
+(https://github.com/auladwd/devops-monitoring-project)
 ```
 
 ---
